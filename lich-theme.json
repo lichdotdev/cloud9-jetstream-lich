@@ -1,0 +1,7 @@
+{
+  "name": "Cloud9 JetStream",
+  "version": "1.0.0",
+  "minLichVersion": "0.53.0",
+  "description": "A layered navy-black dark theme for lich, ported from the Cloud9 JetStream JetBrains theme.",
+  "author": "omartelo"
+}
