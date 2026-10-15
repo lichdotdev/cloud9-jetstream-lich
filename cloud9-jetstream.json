@@ -60,5 +60,114 @@
     "brightMagenta": "#c4b5fd",
     "brightCyan": "#72efdd",
     "brightWhite": "#d4e4f7"
+  },
+  "syntax": {
+    "keyword": {
+      "color": "#3d9bc9",
+      "bold": true
+    },
+    "bool": {
+      "color": "#3d9bc9",
+      "bold": true
+    },
+    "self": {
+      "color": "#3d9bc9",
+      "italic": true
+    },
+    "standard(variableName)": "#3d9bc9",
+    "standard(typeName)": {
+      "color": "#3d9bc9",
+      "bold": true
+    },
+    "string": "#e2b55a",
+    "escape": {
+      "color": "#00d4ff",
+      "bold": true
+    },
+    "regexp": "#3d9bc9",
+    "color": "#00d4ff",
+    "number": "#aecbeb",
+    "comment": {
+      "color": "#3a506b",
+      "italic": true
+    },
+    "lineComment": {
+      "color": "#3a506b",
+      "italic": true
+    },
+    "blockComment": {
+      "color": "#3a506b",
+      "italic": true
+    },
+    "docComment": {
+      "color": "#4a6580",
+      "italic": true
+    },
+    "variableName": "#d4e4f7",
+    "propertyName": "#a5d6e0",
+    "constant(variableName)": {
+      "color": "#c084fc",
+      "bold": true
+    },
+    "function(variableName)": "#58a6ff",
+    "function(propertyName)": "#58a6ff",
+    "function(definition(variableName))": {
+      "color": "#58a6ff",
+      "bold": true
+    },
+    "function(definition(propertyName))": {
+      "color": "#58a6ff",
+      "bold": true
+    },
+    "typeName": "#56cfe1",
+    "className": "#56cfe1",
+    "tagName": "#48bfe3",
+    "attributeName": "#a5d6e0",
+    "operator": "#3d9bc9",
+    "derefOperator": "#6b8cae",
+    "punctuation": "#6b8cae",
+    "meta": "#818cf8",
+    "heading1": {
+      "color": "#3d9bc9",
+      "bold": true
+    },
+    "heading2": {
+      "color": "#58a6ff",
+      "bold": true
+    },
+    "heading3": {
+      "color": "#48bfe3",
+      "bold": true
+    },
+    "heading4": {
+      "color": "#56cfe1",
+      "bold": true
+    },
+    "heading5": {
+      "color": "#aecbeb",
+      "bold": true
+    },
+    "heading6": {
+      "color": "#8899aa",
+      "bold": true
+    },
+    "strong": {
+      "color": "#d4e4f7",
+      "bold": true
+    },
+    "emphasis": {
+      "color": "#d4e4f7",
+      "italic": true
+    },
+    "monospace": "#e2b55a",
+    "link": "#58a6ff",
+    "url": "#3d9bc9",
+    "list": "#3d9bc9",
+    "quote": {
+      "color": "#4a6580",
+      "italic": true
+    },
+    "contentSeparator": "#1f3247",
+    "invalid": "#ff6b6b"
   }
 }

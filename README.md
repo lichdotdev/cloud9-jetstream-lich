@@ -68,6 +68,11 @@ deviation: upstream's ANSI black is the editor background itself, which makes
 black-on-default text invisible, so `black` is `#1e293b`, the top background
 tier of the palette.
 
+The `syntax` colors, which lich's native window uses for code in the review,
+diff and file views, come from the same `cloud9-scheme.xml`: each IntelliJ text
+attribute (`DEFAULT_KEYWORD`, `DEFAULT_STRING`, `DEFAULT_FUNCTION_CALL`, …) is
+mapped to the equivalent highlighting tag, with its bold and italic.
+
 ## Thanks to
 
 - [Cloud9 Esports Inc.](https://github.com/cloud9esports) — Cloud9 JetStream,
