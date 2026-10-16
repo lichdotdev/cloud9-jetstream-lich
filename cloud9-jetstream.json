@@ -168,6 +168,7 @@
       "italic": true
     },
     "contentSeparator": "#6b8cae",
-    "invalid": "#ff6b6b"
+    "invalid": "#ff6b6b",
+    "definition(local(variableName))": "#aecbeb"
   }
 }
