@@ -2,7 +2,7 @@
 
 ## Overview
 
-A dark theme for [lich](https://github.com/omartelo/lich) built for long coding
+A dark theme for [lich](https://github.com/lichdotdev/lich) built for long coding
 sessions: deep navy-black backgrounds, restrained Cloud9-blue accents, and a
 palette that stays out of your way.
 
